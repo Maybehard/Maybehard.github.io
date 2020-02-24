@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>孤独患者</title>
+  
+  <subtitle>一点点，一点点，堆成了一个你!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-02-24T03:47:31.582Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>紫草</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>debian手动编译安装python3.7</title>
+    <link href="http://yoursite.com/2020/02/17/debian%E6%89%8B%E5%8A%A8%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85python3-7/"/>
+    <id>http://yoursite.com/2020/02/17/debian%E6%89%8B%E5%8A%A8%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85python3-7/</id>
+    <published>2020-02-17T07:27:06.000Z</published>
+    <updated>2020-02-24T03:47:31.582Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;之前阿里云搞学生活动，撸了台免费的2核4g的服务器，想着要用上，就开始折腾起来了。&lt;/p&gt;
+&lt;p&gt;于是就想着写一个网易云热评的爬虫，以后可能会做个博客插件，自动显示抓取到的热评。在本地其实写完爬虫了，但是用的是python3.7，服务器用的还是3.5的版本，于是就有了这篇博文&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo部署踩坑记</title>
+    <link href="http://yoursite.com/2020/01/20/hexo%E9%83%A8%E7%BD%B2%E8%B8%A9%E5%9D%91%E8%AE%B0/"/>
+    <id>http://yoursite.com/2020/01/20/hexo%E9%83%A8%E7%BD%B2%E8%B8%A9%E5%9D%91%E8%AE%B0/</id>
+    <published>2020-01-20T07:18:28.000Z</published>
+    <updated>2020-02-24T03:47:31.583Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;Hexo本地预览没有一点问题，但是就是推送不上git，报错如下&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Maybehard/image/master/20200120152027.png&quot; alt=&quot;报错详情&quot;&gt;\&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ubuntu单用户模式</title>
+    <link href="http://yoursite.com/2020/01/20/ubuntu%E5%8D%95%E7%94%A8%E6%88%B7%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://yoursite.com/2020/01/20/ubuntu%E5%8D%95%E7%94%A8%E6%88%B7%E6%A8%A1%E5%BC%8F/</id>
+    <published>2020-01-20T03:14:17.000Z</published>
+    <updated>2020-02-24T03:47:31.585Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;虚拟机内误操作，导致无法切换root用户，原因为：用户权限过低，无法切换。（我TM完全不晓得我完成了什么操蛋操作！！我不准我访问我自己？！？）&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>debian处理软件包出错方法</title>
+    <link href="http://yoursite.com/2020/01/19/debian%E5%A4%84%E7%90%86%E8%BD%AF%E4%BB%B6%E5%8C%85%E5%87%BA%E9%94%99%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2020/01/19/debian%E5%A4%84%E7%90%86%E8%BD%AF%E4%BB%B6%E5%8C%85%E5%87%BA%E9%94%99%E6%96%B9%E6%B3%95/</id>
+    <published>2020-01-19T11:11:53.000Z</published>
+    <updated>2020-02-24T03:47:31.581Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;问题详情&quot;&gt;&lt;a href=&quot;#问题详情&quot; class=&quot;headerlink&quot; title=&quot;问题详情&quot;&gt;&lt;/a&gt;问题详情&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Maybehard/image/master/20200119192106.png&quot; alt=&quot;问题图片&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centos通过yum安装nginx</title>
+    <link href="http://yoursite.com/2020/01/19/centos%E9%80%9A%E8%BF%87yum%E5%AE%89%E8%A3%85nginx/"/>
+    <id>http://yoursite.com/2020/01/19/centos%E9%80%9A%E8%BF%87yum%E5%AE%89%E8%A3%85nginx/</id>
+    <published>2020-01-19T09:06:42.000Z</published>
+    <updated>2020-02-24T03:47:31.578Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;安装前准备&quot;&gt;&lt;a href=&quot;#安装前准备&quot; class=&quot;headerlink&quot; title=&quot;安装前准备&quot;&gt;&lt;/a&gt;安装前准备&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;注：以下命令都在root用户下使用，若不使用root用户，可在每一个yum之前加上sudo即可&lt;/strong&gt;&lt;/br&gt;&lt;br&gt;安装依赖&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;yum install yum-utils&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="软件安装教程" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="软件安装教程" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx安装流程</title>
+    <link href="http://yoursite.com/2019/12/08/nginx%E5%AE%89%E8%A3%85%E6%B5%81%E7%A8%8B/"/>
+    <id>http://yoursite.com/2019/12/08/nginx%E5%AE%89%E8%A3%85%E6%B5%81%E7%A8%8B/</id>
+    <published>2019-12-08T14:58:21.000Z</published>
+    <updated>2020-02-24T03:47:31.584Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;安装环境&quot;&gt;&lt;a href=&quot;#安装环境&quot; class=&quot;headerlink&quot; title=&quot;安装环境&quot;&gt;&lt;/a&gt;安装环境&lt;/h2&gt;&lt;p&gt;   我使用的是Centos7&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Maybehard/image/master/20191208232351.png&quot; alt=&quot;Centos7&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="软件安装教程" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="软件安装教程" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网页更新日志</title>
+    <link href="http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    <id>http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</id>
+    <published>2018-10-13T03:00:55.000Z</published>
+    <updated>2020-02-24T03:47:31.586Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;2020-2-17更新日志&quot;&gt;&lt;a href=&quot;#2020-2-17更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.2.17更新日志&quot;&gt;&lt;/a&gt;2020.2.17更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;将心迹系列博文收归本地&lt;/li&gt;
+&lt;li&gt;将资源分享博文收归本地&lt;/li&gt;
+&lt;li&gt;新增博文《debian手动编译安装python3.7》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;2020-2-11更新日志&quot;&gt;&lt;a href=&quot;#2020-2-11更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.2.11更新日志&quot;&gt;&lt;/a&gt;2020.2.11更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;主题更改&lt;/li&gt;
+&lt;li&gt;新增博文《心迹（二）》&lt;/li&gt;
+&lt;li&gt;将原博文《心迹》更改为《心迹（一）》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;2020-1-22更新日志&quot;&gt;&lt;a href=&quot;#2020-1-22更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.1.22更新日志&quot;&gt;&lt;/a&gt;2020.1.22更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;新增博文《Hexo部署踩坑记》&lt;/li&gt;
+&lt;li&gt;由于原地址出现问问题，新开了一个GitHub账号：&lt;a href=&quot;https://github.com/come-down&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/come-down&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;2020-1-20更新日志&quot;&gt;&lt;a href=&quot;#2020-1-20更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.1.20更新日志&quot;&gt;&lt;/a&gt;2020.1.20更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;整理资料后新增博文《Ubuntu单用户模式》&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+      <category term="更新日志" scheme="http://yoursite.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="更新日志" scheme="http://yoursite.com/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+</feed>
