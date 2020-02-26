@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-26T01:37:59.536Z</updated>
+  <updated>2020-02-26T01:40:25.860Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,14 +21,12 @@
     <link href="http://yoursite.com/2020/02/26/git%E5%A4%9A%E4%BB%93%E5%BA%93%E9%83%A8%E7%BD%B2%E9%83%A8%E7%BD%B2/"/>
     <id>http://yoursite.com/2020/02/26/git%E5%A4%9A%E4%BB%93%E5%BA%93%E9%83%A8%E7%BD%B2%E9%83%A8%E7%BD%B2/</id>
     <published>2020-02-26T01:09:07.000Z</published>
-    <updated>2020-02-26T01:37:59.536Z</updated>
+    <updated>2020-02-26T01:40:25.860Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;文章转载自&quot;&gt;&lt;a href=&quot;#文章转载自&quot; class=&quot;headerlink&quot; title=&quot;文章转载自&quot;&gt;&lt;/a&gt;文章转载自&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/xirong/my-git/blob/master/use-
-      
+      &lt;h2 id=&quot;文章转载自&quot;&gt;&lt;a href=&quot;#文章转载自&quot; class=&quot;headerlink&quot; title=&quot;文章转载自&quot;&gt;&lt;/a&gt;文章转载自&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/xirong/my-git/blob/master/use-gitlab-github-together.md&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot; title=&quot;说明&quot;&gt;&lt;/a&gt;说明&lt;/h2&gt;&lt;p&gt;由于公司团队使用 GitLab 来托管代码，同时，个人在 Github 上还有一些代码仓库，可公司邮箱与个人邮箱是不同的，由此产生的 SSH key 也是不同的，这就造成了冲突 ，文章提供此类问题的解决方案：如何在一台机器上面同时使用 Github 与 Gitlab 的服务？&lt;/p&gt;
     
     </summary>
     
