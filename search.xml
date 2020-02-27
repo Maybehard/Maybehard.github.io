@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>git多仓库部署部署</title>
+    <title>git多仓库部署</title>
     <url>/2020/02/26/git%E5%A4%9A%E4%BB%93%E5%BA%93%E9%83%A8%E7%BD%B2%E9%83%A8%E7%BD%B2/</url>
     <content><![CDATA[<h2 id="文章转载自"><a href="#文章转载自" class="headerlink" title="文章转载自"></a>文章转载自</h2><p><a href="https://github.com/xirong/my-git/blob/master/use-gitlab-github-together.md" target="_blank" rel="noopener">Github</a></p>
 <h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>由于公司团队使用 GitLab 来托管代码，同时，个人在 Github 上还有一些代码仓库，可公司邮箱与个人邮箱是不同的，由此产生的 SSH key 也是不同的，这就造成了冲突 ，文章提供此类问题的解决方案：如何在一台机器上面同时使用 Github 与 Gitlab 的服务？</p>
@@ -353,7 +353,21 @@
   <entry>
     <title>网页更新日志</title>
     <url>/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<h2 id="2020-2-17更新日志"><a href="#2020-2-17更新日志" class="headerlink" title="2020.2.17更新日志"></a>2020.2.17更新日志</h2><ol>
+    <content><![CDATA[<h2 id="2020-2-26-28更新日志"><a href="#2020-2-26-28更新日志" class="headerlink" title="2020.2.26-28更新日志"></a>2020.2.26-28更新日志</h2><ol>
+<li><p>转载博文《git多仓库部署》</p>
+</li>
+<li><p>博客部署地址的改变：</p>
+<ul>
+<li>国内推荐访问地址：<a href="https://unknown-known.gitee.io/" target="_blank" rel="noopener">https://unknown-known.gitee.io/</a>（基本3秒以内打开）</li>
+<li>国外推荐访问地址：<a href="https://www.aliyun.gq/" target="_blank" rel="noopener">https://www.aliyun.gq/</a> (部署在Github上，国内速度不太快)</li>
+</ul>
+</li>
+<li><p>将2020.1.22出现的问题排查出来并解决了，换回原git地址</p>
+</li>
+</ol>
+<a id="more"></a>
+
+<h2 id="2020-2-17更新日志"><a href="#2020-2-17更新日志" class="headerlink" title="2020.2.17更新日志"></a>2020.2.17更新日志</h2><ol>
 <li>将心迹系列博文收归本地</li>
 <li>将资源分享博文收归本地</li>
 <li>新增博文《debian手动编译安装python3.7》</li>
@@ -370,8 +384,6 @@
 <h2 id="2020-1-20更新日志"><a href="#2020-1-20更新日志" class="headerlink" title="2020.1.20更新日志"></a>2020.1.20更新日志</h2><ol>
 <li>整理资料后新增博文《Ubuntu单用户模式》</li>
 </ol>
-<a id="more"></a>
-
 <h2 id="2020-1-19更新日志"><a href="#2020-1-19更新日志" class="headerlink" title="2020.1.19更新日志"></a>2020.1.19更新日志</h2><ol>
 <li>新增博文：《centos通过yum安装nginx》与《debian处理软件包出错方法》</li>
 <li>更改博客主题为fluid（对效果不是很满意）</li>
