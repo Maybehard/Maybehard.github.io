@@ -354,16 +354,16 @@
     <title>网页更新日志</title>
     <url>/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
     <content><![CDATA[<h2 id="2020-2-26-28更新日志"><a href="#2020-2-26-28更新日志" class="headerlink" title="2020.2.26-28更新日志"></a>2020.2.26-28更新日志</h2><ol>
-<li><p>转载博文《git多仓库部署》</p>
-</li>
-<li><p>博客部署地址的改变：</p>
-<ul>
+<li>转载博文《git多仓库部署》</li>
+<li>博客部署地址的改变：<ul>
 <li>国内推荐访问地址：<a href="https://unknown-known.gitee.io/" target="_blank" rel="noopener">https://unknown-known.gitee.io/</a>（基本3秒以内打开）</li>
 <li>国外推荐访问地址：<a href="https://www.aliyun.gq/" target="_blank" rel="noopener">https://www.aliyun.gq/</a> (部署在Github上，国内速度不太快)</li>
 </ul>
 </li>
-<li><p>将2020.1.22出现的问题排查出来并解决了，换回原git地址</p>
-</li>
+<li>将2020.1.22出现的问题排查出来并解决了，换回原git地址</li>
+<li>开启评论系统，使用的是：Valine</li>
+<li>修复搜索功能</li>
+<li>右上角添加fork me on Github</li>
 </ol>
 <a id="more"></a>
 

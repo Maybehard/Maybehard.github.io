@@ -175,21 +175,21 @@
     <link href="http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
     <id>http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</id>
     <published>2018-10-13T03:00:55.000Z</published>
-    <updated>2020-02-27T16:09:05.416Z</updated>
+    <updated>2020-02-28T10:33:31.872Z</updated>
     
     <summary type="html">
     
       &lt;h2 id=&quot;2020-2-26-28更新日志&quot;&gt;&lt;a href=&quot;#2020-2-26-28更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.2.26-28更新日志&quot;&gt;&lt;/a&gt;2020.2.26-28更新日志&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;转载博文《git多仓库部署》&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;博客部署地址的改变：&lt;/p&gt;
-&lt;ul&gt;
+&lt;li&gt;转载博文《git多仓库部署》&lt;/li&gt;
+&lt;li&gt;博客部署地址的改变：&lt;ul&gt;
 &lt;li&gt;国内推荐访问地址：&lt;a href=&quot;https://unknown-known.gitee.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://unknown-known.gitee.io/&lt;/a&gt;（基本3秒以内打开）&lt;/li&gt;
 &lt;li&gt;国外推荐访问地址：&lt;a href=&quot;https://www.aliyun.gq/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyun.gq/&lt;/a&gt; (部署在Github上，国内速度不太快)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;将2020.1.22出现的问题排查出来并解决了，换回原git地址&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;将2020.1.22出现的问题排查出来并解决了，换回原git地址&lt;/li&gt;
+&lt;li&gt;开启评论系统，使用的是：Valine&lt;/li&gt;
+&lt;li&gt;修复搜索功能&lt;/li&gt;
+&lt;li&gt;右上角添加fork me on Github&lt;/li&gt;
 &lt;/ol&gt;
     
     </summary>
