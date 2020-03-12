@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-27T16:03:02.114Z</updated>
+  <updated>2020-03-12T09:19:43.609Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客图床的选择与使用</title>
+    <link href="http://yoursite.com/2020/03/12/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
+    <id>http://yoursite.com/2020/03/12/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
+    <published>2020-03-12T08:39:52.000Z</published>
+    <updated>2020-03-12T09:19:43.609Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;之前一直用的图床工具都是picgo，图床使用的都是github，虽然访问速度有点慢（将就着用吧，其他的图床都不太靠谱的感觉，而且很多都是收费的，没钱！！！）&lt;/p&gt;
+&lt;p&gt;介意速度的话阔以参考&lt;a href=&quot;https://zhuanlan.zhihu.com/p/35270383&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;这里&lt;/a&gt;选择其他图床&lt;/p&gt;
+&lt;p&gt;由于之前一次更新软件以及github改名导致的软件使用不了，现在又有了图片上传的需求，由此写下了这篇图文&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>git多仓库部署</title>
@@ -65,7 +86,7 @@
     <link href="http://yoursite.com/2020/01/20/hexo%E9%83%A8%E7%BD%B2%E8%B8%A9%E5%9D%91%E8%AE%B0/"/>
     <id>http://yoursite.com/2020/01/20/hexo%E9%83%A8%E7%BD%B2%E8%B8%A9%E5%9D%91%E8%AE%B0/</id>
     <published>2020-01-20T07:18:28.000Z</published>
-    <updated>2020-02-24T03:47:31.583Z</updated>
+    <updated>2020-03-12T08:40:24.233Z</updated>
     
     <summary type="html">
     
@@ -75,10 +96,10 @@
     </summary>
     
     
-      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+      <category term="博客" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -175,11 +196,15 @@
     <link href="http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
     <id>http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</id>
     <published>2018-10-13T03:00:55.000Z</published>
-    <updated>2020-02-28T10:33:31.872Z</updated>
+    <updated>2020-03-12T08:46:20.983Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;2020-2-26-28更新日志&quot;&gt;&lt;a href=&quot;#2020-2-26-28更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.2.26-28更新日志&quot;&gt;&lt;/a&gt;2020.2.26-28更新日志&lt;/h2&gt;&lt;ol&gt;
+      &lt;h2 id=&quot;2020-3-12更新日志&quot;&gt;&lt;a href=&quot;#2020-3-12更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.3.12更新日志&quot;&gt;&lt;/a&gt;2020.3.12更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;新增分类：博客（将hexo部署踩坑记加入该分类）&lt;/li&gt;
+&lt;li&gt;新增博文《博客图床的选择与使用》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;2020-2-26-28更新日志&quot;&gt;&lt;a href=&quot;#2020-2-26-28更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.2.26-28更新日志&quot;&gt;&lt;/a&gt;2020.2.26-28更新日志&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;转载博文《git多仓库部署》&lt;/li&gt;
 &lt;li&gt;博客部署地址的改变：&lt;ul&gt;
 &lt;li&gt;国内推荐访问地址：&lt;a href=&quot;https://unknown-known.gitee.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://unknown-known.gitee.io/&lt;/a&gt;（基本3秒以内打开）&lt;/li&gt;
@@ -188,7 +213,7 @@
 &lt;/li&gt;
 &lt;li&gt;将2020.1.22出现的问题排查出来并解决了，换回原git地址&lt;/li&gt;
 &lt;li&gt;开启评论系统，使用的是：Valine&lt;/li&gt;
-&lt;li&gt;修复搜索功能&lt;/li&gt;
+&lt;li&gt;修复搜索功能,开启RSS Feed&lt;/li&gt;
 &lt;li&gt;右上角添加fork me on Github&lt;/li&gt;
 &lt;/ol&gt;
     
