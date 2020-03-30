@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-19T15:44:22.224Z</updated>
+  <updated>2020-03-30T14:20:12.339Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>心迹（四）</title>
+    <link href="http://yoursite.com/2020/03/30/%E5%BF%83%E8%BF%B9%EF%BC%88%E5%9B%9B%EF%BC%89/"/>
+    <id>http://yoursite.com/2020/03/30/%E5%BF%83%E8%BF%B9%EF%BC%88%E5%9B%9B%EF%BC%89/</id>
+    <published>2020-03-30T13:37:32.000Z</published>
+    <updated>2020-03-30T14:20:12.339Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/unknown-known/image/master/20200330221944.webp&quot; alt=&quot;题图&quot;&gt;&lt;/p&gt;
+&lt;p&gt;也没有什么，就是一时心血来潮的翻了翻自己以前的QQ空间，顺带着把她空间也看了看。突然记起来好多好多事。很碰巧，已经认识一年了&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="心迹" scheme="http://yoursite.com/categories/%E5%BF%83%E8%BF%B9/"/>
+    
+    
+      <category term="心迹" scheme="http://yoursite.com/tags/%E5%BF%83%E8%BF%B9/"/>
+    
+  </entry>
+  
+  <entry>
     <title>心迹（三）</title>
     <link href="http://yoursite.com/2020/03/17/%E5%BF%83%E8%BF%B9%EF%BC%88%E4%B8%89%EF%BC%89/"/>
     <id>http://yoursite.com/2020/03/17/%E5%BF%83%E8%BF%B9%EF%BC%88%E4%B8%89%EF%BC%89/</id>
     <published>2020-03-17T05:24:03.000Z</published>
-    <updated>2020-03-19T15:44:22.224Z</updated>
+    <updated>2020-03-30T13:39:07.711Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/unknown-known/image/master/20200318001314.webp&quot; alt=&quot;沉溺&quot;&gt;&lt;/p&gt;
-&lt;p&gt;一直以来对于疫情都没有太大的感知度，可能因为在农村吧，消息来的慢，年前的我还在计划着今年生日要不要去哪玩！最后发现，想也就只能想想啦！后面开始慢慢的来消息，开始戒严，然后封村，最后推迟开学，使用上网课的形式来上课。于是就这样子开始了近俩月的在家生活。&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/unknown-known/image/master/20200318001509.gif&quot; alt=&quot;沉溺&quot;&gt;&lt;br&gt;一直以来对于疫情都没有太大的感知度，可能因为在农村吧，消息来的慢，年前的我还在计划着今年生日要不要去哪玩！最后发现，想也就只能想想啦！后面开始慢慢的来消息，开始戒严，然后封村，最后推迟开学，使用上网课的形式来上课。于是就这样子开始了近俩月的在家生活。&lt;/p&gt;
     
     </summary>
     
+    
+      <category term="心迹" scheme="http://yoursite.com/categories/%E5%BF%83%E8%BF%B9/"/>
     
     
       <category term="心迹" scheme="http://yoursite.com/tags/%E5%BF%83%E8%BF%B9/"/>
@@ -41,7 +64,7 @@
     <link href="http://yoursite.com/2020/03/12/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
     <id>http://yoursite.com/2020/03/12/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
     <published>2020-03-12T08:39:52.000Z</published>
-    <updated>2020-03-12T09:19:43.609Z</updated>
+    <updated>2020-03-30T13:37:55.009Z</updated>
     
     <summary type="html">
     
@@ -51,6 +74,8 @@
     
     </summary>
     
+    
+      <category term="博客" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
       <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
