@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>孤独患者</title>
+  
+  <subtitle>一点点，一点点，堆成了一个你!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-09T15:01:44.048Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>紫草</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Typora+Picgo+Github轻松使用Markdown</title>
+    <link href="http://yoursite.com/2020/04/09/Typora+Picgo+Github%E8%BD%BB%E6%9D%BE%E4%BD%BF%E7%94%A8Markdown/"/>
+    <id>http://yoursite.com/2020/04/09/Typora+Picgo+Github%E8%BD%BB%E6%9D%BE%E4%BD%BF%E7%94%A8Markdown/</id>
+    <published>2020-04-09T15:00:00.000Z</published>
+    <updated>2020-04-09T15:01:44.048Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/unknown-known/image/img/20200409225551.png&quot; alt=&quot;image-20200409225049323&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;之前一直写 Markdown 都是用的 VScode，一直也没觉得有什么不好，也一直知道有 Typora 这个（专业的？）软件。我最开始的上手体验其实并没有多好，所以就放弃了。前几天看到群友推荐写 Markdown 的软件，有推这个的，也有推 VScode 的，一半一半吧。那我为什么会又尝试 Typora 呢？其实是室友推荐，他向我展示了一遍用 Typora 打表格的方法！然后我就有点心痒痒了。加上自己也有整理一下前端知识点的想法，表格用来做对比会有个很好的效果哈哈哈哈。所以就这么上手了。上手不到一个星期，我就迷上了这软件！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>心迹（四）</title>
+    <link href="http://yoursite.com/2020/03/30/%E5%BF%83%E8%BF%B9%EF%BC%88%E5%9B%9B%EF%BC%89/"/>
+    <id>http://yoursite.com/2020/03/30/%E5%BF%83%E8%BF%B9%EF%BC%88%E5%9B%9B%EF%BC%89/</id>
+    <published>2020-03-30T13:37:32.000Z</published>
+    <updated>2020-03-30T15:06:20.538Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/unknown-known/image/master/20200330223727.png&quot; alt=&quot;题图&quot;&gt;&lt;/p&gt;
+&lt;p&gt;也没有什么，就是一时心血来潮的翻了翻自己以前的QQ空间，顺带着把她空间也看了看。突然记起来好多好多事。很碰巧，已经认识一年了&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="心迹" scheme="http://yoursite.com/categories/%E5%BF%83%E8%BF%B9/"/>
+    
+    
+      <category term="心迹" scheme="http://yoursite.com/tags/%E5%BF%83%E8%BF%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>心迹（三）</title>
+    <link href="http://yoursite.com/2020/03/17/%E5%BF%83%E8%BF%B9%EF%BC%88%E4%B8%89%EF%BC%89/"/>
+    <id>http://yoursite.com/2020/03/17/%E5%BF%83%E8%BF%B9%EF%BC%88%E4%B8%89%EF%BC%89/</id>
+    <published>2020-03-17T05:24:03.000Z</published>
+    <updated>2020-03-30T13:39:07.711Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/unknown-known/image/master/20200318001509.gif&quot; alt=&quot;沉溺&quot;&gt;&lt;br&gt;一直以来对于疫情都没有太大的感知度，可能因为在农村吧，消息来的慢，年前的我还在计划着今年生日要不要去哪玩！最后发现，想也就只能想想啦！后面开始慢慢的来消息，开始戒严，然后封村，最后推迟开学，使用上网课的形式来上课。于是就这样子开始了近俩月的在家生活。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="心迹" scheme="http://yoursite.com/categories/%E5%BF%83%E8%BF%B9/"/>
+    
+    
+      <category term="心迹" scheme="http://yoursite.com/tags/%E5%BF%83%E8%BF%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客图床的选择与使用</title>
+    <link href="http://yoursite.com/2020/03/12/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
+    <id>http://yoursite.com/2020/03/12/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
+    <published>2020-03-12T08:39:52.000Z</published>
+    <updated>2020-04-11T10:36:28.405Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;之前一直用的图床工具都是picgo，图床使用的都是github，虽然访问速度有点慢（将就着用吧，其他的图床都不太靠谱的感觉，而且很多都是收费的，没钱！！！）&lt;/p&gt;
+&lt;p&gt;介意速度的话阔以参考&lt;a href=&quot;https://zhuanlan.zhihu.com/p/35270383&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;这里&lt;/a&gt;选择其他图床&lt;/p&gt;
+&lt;p&gt;由于之前一次更新软件以及github改名导致的软件使用不了，现在又有了图片上传的需求，由此写下了这篇图文&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git多仓库部署</title>
+    <link href="http://yoursite.com/2020/02/26/git%E5%A4%9A%E4%BB%93%E5%BA%93%E9%83%A8%E7%BD%B2%E9%83%A8%E7%BD%B2/"/>
+    <id>http://yoursite.com/2020/02/26/git%E5%A4%9A%E4%BB%93%E5%BA%93%E9%83%A8%E7%BD%B2%E9%83%A8%E7%BD%B2/</id>
+    <published>2020-02-26T01:09:07.000Z</published>
+    <updated>2020-02-27T16:03:02.114Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;文章转载自&quot;&gt;&lt;a href=&quot;#文章转载自&quot; class=&quot;headerlink&quot; title=&quot;文章转载自&quot;&gt;&lt;/a&gt;文章转载自&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/xirong/my-git/blob/master/use-gitlab-github-together.md&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot; title=&quot;说明&quot;&gt;&lt;/a&gt;说明&lt;/h2&gt;&lt;p&gt;由于公司团队使用 GitLab 来托管代码，同时，个人在 Github 上还有一些代码仓库，可公司邮箱与个人邮箱是不同的，由此产生的 SSH key 也是不同的，这就造成了冲突 ，文章提供此类问题的解决方案：如何在一台机器上面同时使用 Github 与 Gitlab 的服务？&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>debian手动编译安装python3.7</title>
+    <link href="http://yoursite.com/2020/02/17/debian%E6%89%8B%E5%8A%A8%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85python3-7/"/>
+    <id>http://yoursite.com/2020/02/17/debian%E6%89%8B%E5%8A%A8%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85python3-7/</id>
+    <published>2020-02-17T07:27:06.000Z</published>
+    <updated>2020-02-24T03:47:31.582Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;之前阿里云搞学生活动，撸了台免费的2核4g的服务器，想着要用上，就开始折腾起来了。&lt;/p&gt;
+&lt;p&gt;于是就想着写一个网易云热评的爬虫，以后可能会做个博客插件，自动显示抓取到的热评。在本地其实写完爬虫了，但是用的是python3.7，服务器用的还是3.5的版本，于是就有了这篇博文&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo部署踩坑记</title>
+    <link href="http://yoursite.com/2020/01/20/hexo%E9%83%A8%E7%BD%B2%E8%B8%A9%E5%9D%91%E8%AE%B0/"/>
+    <id>http://yoursite.com/2020/01/20/hexo%E9%83%A8%E7%BD%B2%E8%B8%A9%E5%9D%91%E8%AE%B0/</id>
+    <published>2020-01-20T07:18:28.000Z</published>
+    <updated>2020-03-12T08:40:24.233Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;Hexo本地预览没有一点问题，但是就是推送不上git，报错如下&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Maybehard/image/master/20200120152027.png&quot; alt=&quot;报错详情&quot;&gt;\&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ubuntu单用户模式</title>
+    <link href="http://yoursite.com/2020/01/20/ubuntu%E5%8D%95%E7%94%A8%E6%88%B7%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://yoursite.com/2020/01/20/ubuntu%E5%8D%95%E7%94%A8%E6%88%B7%E6%A8%A1%E5%BC%8F/</id>
+    <published>2020-01-20T03:14:17.000Z</published>
+    <updated>2020-02-24T03:47:31.585Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;虚拟机内误操作，导致无法切换root用户，原因为：用户权限过低，无法切换。（我TM完全不晓得我完成了什么操蛋操作！！我不准我访问我自己？！？）&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>debian处理软件包出错方法</title>
+    <link href="http://yoursite.com/2020/01/19/debian%E5%A4%84%E7%90%86%E8%BD%AF%E4%BB%B6%E5%8C%85%E5%87%BA%E9%94%99%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2020/01/19/debian%E5%A4%84%E7%90%86%E8%BD%AF%E4%BB%B6%E5%8C%85%E5%87%BA%E9%94%99%E6%96%B9%E6%B3%95/</id>
+    <published>2020-01-19T11:11:53.000Z</published>
+    <updated>2020-02-24T03:47:31.581Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;问题详情&quot;&gt;&lt;a href=&quot;#问题详情&quot; class=&quot;headerlink&quot; title=&quot;问题详情&quot;&gt;&lt;/a&gt;问题详情&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Maybehard/image/master/20200119192106.png&quot; alt=&quot;问题图片&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centos通过yum安装nginx</title>
+    <link href="http://yoursite.com/2020/01/19/centos%E9%80%9A%E8%BF%87yum%E5%AE%89%E8%A3%85nginx/"/>
+    <id>http://yoursite.com/2020/01/19/centos%E9%80%9A%E8%BF%87yum%E5%AE%89%E8%A3%85nginx/</id>
+    <published>2020-01-19T09:06:42.000Z</published>
+    <updated>2020-04-09T14:50:24.642Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;安装前准备&quot;&gt;&lt;a href=&quot;#安装前准备&quot; class=&quot;headerlink&quot; title=&quot;安装前准备&quot;&gt;&lt;/a&gt;安装前准备&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;注：以下命令都在root用户下使用，若不使用root用户，可在每一个yum之前加上sudo即可&lt;/strong&gt;&lt;/br&gt;&lt;br&gt;安装依赖&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;yum install yum-utils&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="软件安装教程" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="软件安装教程" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx安装流程</title>
+    <link href="http://yoursite.com/2019/12/08/nginx%E5%AE%89%E8%A3%85%E6%B5%81%E7%A8%8B/"/>
+    <id>http://yoursite.com/2019/12/08/nginx%E5%AE%89%E8%A3%85%E6%B5%81%E7%A8%8B/</id>
+    <published>2019-12-08T14:58:21.000Z</published>
+    <updated>2020-02-26T02:32:21.035Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;安装环境&quot;&gt;&lt;a href=&quot;#安装环境&quot; class=&quot;headerlink&quot; title=&quot;安装环境&quot;&gt;&lt;/a&gt;安装环境&lt;/h2&gt;&lt;p&gt;   我使用的是Centos7&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Maybehard/image/master/20191208232351.png&quot; alt=&quot;Centos7&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="软件安装教程" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="软件安装教程" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网页更新日志</title>
+    <link href="http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    <id>http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</id>
+    <published>2018-10-13T03:00:55.000Z</published>
+    <updated>2020-04-09T15:01:38.114Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;2020-4-9-更新日志&quot;&gt;&lt;a href=&quot;#2020-4-9-更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.4.9 更新日志&quot;&gt;&lt;/a&gt;2020.4.9 更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;新增博文《Typora+Picgo+Github 轻松使用 Markdown》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;2020-3-30-更新日志&quot;&gt;&lt;a href=&quot;#2020-3-30-更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.3.30 更新日志&quot;&gt;&lt;/a&gt;2020.3.30 更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;补全 about&lt;/li&gt;
+&lt;li&gt;新增博文《心迹（四）》&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+      <category term="更新日志" scheme="http://yoursite.com/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="更新日志" scheme="http://yoursite.com/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+</feed>
