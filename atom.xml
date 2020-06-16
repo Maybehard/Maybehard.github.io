@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-09T15:01:44.048Z</updated>
+  <updated>2020-06-16T13:01:48.763Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>油猴插件的安装与使用</title>
+    <link href="http://yoursite.com/2020/06/16/%E6%B2%B9%E7%8C%B4%E6%8F%92%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
+    <id>http://yoursite.com/2020/06/16/%E6%B2%B9%E7%8C%B4%E6%8F%92%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
+    <published>2020-06-16T08:39:52.000Z</published>
+    <updated>2020-06-16T13:01:48.763Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;浏览器的选择&quot;&gt;&lt;a href=&quot;#浏览器的选择&quot; class=&quot;headerlink&quot; title=&quot;浏览器的选择&quot;&gt;&lt;/a&gt;浏览器的选择&lt;/h2&gt;&lt;p&gt;此处不详述了，推荐使用：Chrome浏览器&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://a-littl
+      
+    
+    </summary>
+    
+    
+      <category term="浏览器" scheme="http://yoursite.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="浏览器" scheme="http://yoursite.com/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>Typora+Picgo+Github轻松使用Markdown</title>
