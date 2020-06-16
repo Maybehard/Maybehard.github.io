@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-16T13:01:48.763Z</updated>
+  <updated>2020-06-16T14:00:50.269Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,16 +20,19 @@
     <title>油猴插件的安装与使用</title>
     <link href="http://yoursite.com/2020/06/16/%E6%B2%B9%E7%8C%B4%E6%8F%92%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
     <id>http://yoursite.com/2020/06/16/%E6%B2%B9%E7%8C%B4%E6%8F%92%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
-    <published>2020-06-16T08:39:52.000Z</published>
-    <updated>2020-06-16T13:01:48.763Z</updated>
+    <published>2020-06-16T13:55:52.000Z</published>
+    <updated>2020-06-16T14:00:50.269Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;浏览器的选择&quot;&gt;&lt;a href=&quot;#浏览器的选择&quot; class=&quot;headerlink&quot; title=&quot;浏览器的选择&quot;&gt;&lt;/a&gt;浏览器的选择&lt;/h2&gt;&lt;p&gt;此处不详述了，推荐使用：Chrome浏览器&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://a-littl
-      
+      &lt;h2 id=&quot;浏览器的选择&quot;&gt;&lt;a href=&quot;#浏览器的选择&quot; class=&quot;headerlink&quot; title=&quot;浏览器的选择&quot;&gt;&lt;/a&gt;浏览器的选择&lt;/h2&gt;&lt;p&gt;此处不详述了，推荐使用：Chrome 浏览器&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://a-little.oss-cn-shenzhen.aliyuncs.com/img/20200616120829.png&quot; alt=&quot;Chrome&quot;&gt;&lt;/p&gt;
+&lt;p&gt;与基于 Chromium 内核的 edg 浏览器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://a-little.oss-cn-shenzhen.aliyuncs.com/img/20200616120743.png&quot; alt=&quot;edg浏览器&quot;&gt;&lt;/p&gt;
+&lt;p&gt;由于 Chrome 的插件要使用一些特殊方式才能访问，所以本文使用的是 edg 浏览器&lt;/p&gt;
+&lt;p&gt;浏览器下载链接：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.google.cn/chrome/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Chrome 浏览器&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.microsoft.com/zh-cn/edge?form=MY01BW&amp;OCID=MY01BW&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Edg 浏览器&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
