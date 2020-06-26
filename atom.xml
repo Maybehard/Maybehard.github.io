@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-26T08:47:03.008Z</updated>
+  <updated>2020-06-26T09:08:37.451Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,14 +21,17 @@
     <link href="http://yoursite.com/2020/06/26/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6/"/>
     <id>http://yoursite.com/2020/06/26/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6/</id>
     <published>2020-06-26T13:55:52.000Z</published>
-    <updated>2020-06-26T08:47:03.008Z</updated>
+    <updated>2020-06-26T09:08:37.451Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;浏览器插件简介&quot;&gt;&lt;a href=&quot;#浏览器插件简介&quot; class=&quot;headerlink&quot; title=&quot;浏览器插件简介&quot;&gt;&lt;/a&gt;浏览器插件简介&lt;/h2&gt;&lt;p&gt;所谓浏览器插件，就是一些增强浏览器功能的一些类似于小程序的东西。（我自己下的定义哈，有想法较真的朋友
-      
+      &lt;h2 id=&quot;浏览器插件简介&quot;&gt;&lt;a href=&quot;#浏览器插件简介&quot; class=&quot;headerlink&quot; title=&quot;浏览器插件简介&quot;&gt;&lt;/a&gt;浏览器插件简介&lt;/h2&gt;&lt;p&gt;所谓浏览器插件，就是一些增强浏览器功能的一些类似于小程序的东西。（我自己下的定义哈，有想法较真的朋友可以直接百度一下。）&lt;/p&gt;
+&lt;h2 id=&quot;浏览器插件的安装&quot;&gt;&lt;a href=&quot;#浏览器插件的安装&quot; class=&quot;headerlink&quot; title=&quot;浏览器插件的安装&quot;&gt;&lt;/a&gt;浏览器插件的安装&lt;/h2&gt;&lt;p&gt;网上一大堆教程，就不重复造轮子了，这里贴几个就好了。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://jingyan.baidu.com/article/90895e0ffa1a1664ed6b0b7d.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;百度经验&lt;/a&gt; 这里是离线安装的教程&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chrome.zzzmh.cn/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;极简插件网&lt;/a&gt; 这里用来下载插件的网站&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;[https://unknown-known.gitee.io/2020/06/16/%E6%B2%B9%E7%8C%B4%E6%8F%92%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/](https://unknown-known.gitee.io/2020/06/16/油猴插件的安装与使用/)&quot;&gt;我的博客&lt;/a&gt; 之前介绍油猴的时候有介绍在线安装，用的是 Edg 浏览器。&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
