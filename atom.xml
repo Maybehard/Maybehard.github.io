@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-16T14:00:50.269Z</updated>
+  <updated>2020-06-26T08:47:03.008Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>浏览器必备插件</title>
+    <link href="http://yoursite.com/2020/06/26/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6/"/>
+    <id>http://yoursite.com/2020/06/26/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6/</id>
+    <published>2020-06-26T13:55:52.000Z</published>
+    <updated>2020-06-26T08:47:03.008Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;浏览器插件简介&quot;&gt;&lt;a href=&quot;#浏览器插件简介&quot; class=&quot;headerlink&quot; title=&quot;浏览器插件简介&quot;&gt;&lt;/a&gt;浏览器插件简介&lt;/h2&gt;&lt;p&gt;所谓浏览器插件，就是一些增强浏览器功能的一些类似于小程序的东西。（我自己下的定义哈，有想法较真的朋友
+      
+    
+    </summary>
+    
+    
+      <category term="浏览器" scheme="http://yoursite.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="浏览器" scheme="http://yoursite.com/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>油猴插件的安装与使用</title>
