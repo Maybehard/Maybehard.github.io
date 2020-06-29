@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>自动生成字幕</title>
+    <url>/2020/06/30/%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E5%AD%97%E5%B9%95/</url>
+    <content><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>最近刚刚好碰上有小教的作业要写，懒得去学校里实地采集资料了。网上找了课程，发现如果要自己手动进行文字的转换太过于麻烦了。于是想到了网上看看有没能自动获取视频里的字幕然后导出的工具。于是就发现了这个网站。网易出品。还是值得信赖的！（其实好早之前应该看到过，所以这次就是直接试着开始上手了）于是就开始尝试了一下这个网站。使用起来体验还是可以的。</p>
+<a id="more"></a>
+
+<h2 id="网站简介"><a href="#网站简介" class="headerlink" title="网站简介"></a>网站简介</h2><p>网站介绍：<a href="http://sight.youdao.com/" target="_blank" rel="noopener">http://sight.youdao.com/</a></p>
+<p>上面的链接里都有详细信息，我这里就不多啰嗦了。给张大概的截图就好了</p>
+<p><img src="https://a-little.oss-cn-shenzhen.aliyuncs.com/img/20200630002814.png" alt="image-20200630002812575"></p>
+<p>可以看到的有视频的自动添加字幕，自动翻译。音频导出文本，还有文档的翻译，图像文字的识别。功能还是挺多的。而且由于是 web 应用，所以是全平台通用（理论上，我没实地测试了。晚上刚刚赶完作业）。看网上的介绍说是每天每人可以使用俩小时，我也没测试了哈哈哈哈，我是半夜搞的，应该限制不大，建议直接导出文档离线编辑就好了。</p>
+<h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><ol>
+<li><p>​ 网址：<a href="https://jianwai.youdao.com/index/0" target="_blank" rel="noopener">https://jianwai.youdao.com/index/0</a></p>
+</li>
+<li><p>注册账号（有网易账号的应该可以直接登录，这个是通用的）</p>
+</li>
+<li><p>看图来</p>
+</li>
+<li><p><img src="https://a-little.oss-cn-shenzhen.aliyuncs.com/img/20200630003526.png" alt="image-20200630003524672"></p>
+</li>
+<li><p>按要求填写信息以及提交本地文件即可（这里展示的是语音转写的页面）</p>
+</li>
+<li><p><img src="https://a-little.oss-cn-shenzhen.aliyuncs.com/img/20200630003624.png" alt="image-20200630003623299"></p>
+</li>
+<li><p>稍微等待一会，等处理完成即可</p>
+<p> <img src="https://a-little.oss-cn-shenzhen.aliyuncs.com/img/20200630005038.png" alt="image-20200630003853421"></p>
+</li>
+</ol>
+<h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ol>
+<li>上传的文件信息都是有格式限制的，上传的时候注意一下格式。</li>
+<li>对于第一点的格式问题，如果本地的文件格式不是要求的文件格式，可以直接百度看看有没在线转换的网站，或者使用格式工厂（安装的时候眼睛放亮一点，我隐约记得有捆绑）进行转换。</li>
+<li>其他的暂时没啥了，我使用时间也不是很长，就只是一个用到的时候用一下的工具。其他的各位可以自己摸索！这个使用起来就是直接上手的，对于一些自媒体或者制作视频的朋友帮助应该挺大的。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>网址</category>
+      </categories>
+      <tags>
+        <tag>网址</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>浏览器必备插件</title>
     <url>/2020/06/26/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6/</url>
     <content><![CDATA[<h2 id="浏览器插件简介"><a href="#浏览器插件简介" class="headerlink" title="浏览器插件简介"></a>浏览器插件简介</h2><p>所谓浏览器插件，就是一些增强浏览器功能的一些类似于小程序的东西。（我自己下的定义哈，有想法较真的朋友可以直接百度一下。）</p>
@@ -628,11 +668,18 @@
   <entry>
     <title>网页更新日志</title>
     <url>/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<h2 id="2020-4-9-更新日志"><a href="#2020-4-9-更新日志" class="headerlink" title="2020.4.9 更新日志"></a>2020.4.9 更新日志</h2><ol>
+    <content><![CDATA[<h2 id="2020-6-30-更新日志"><a href="#2020-6-30-更新日志" class="headerlink" title="2020.6.30 更新日志"></a>2020.6.30 更新日志</h2><ol>
+<li>更新博文《自动生成字幕》</li>
+<li>增加分类：网站</li>
+</ol>
+<h2 id="2020-6-26-更新日志"><a href="#2020-6-26-更新日志" class="headerlink" title="2020.6.26 更新日志"></a>2020.6.26 更新日志</h2><ol>
+<li>更新博文《浏览器必备插件》</li>
+</ol>
+<h2 id="2020-6-13-更新日志"><a href="#2020-6-13-更新日志" class="headerlink" title="2020.6.13 更新日志"></a>2020.6.13 更新日志</h2><ol>
 <li>蹭考试热点发布博文《油猴插件的安装与使用》</li>
 <li>博客之前用 github 做图床的图片全访问不了了，考完试有空再修复</li>
 </ol>
-<h2 id="2020-4-9-更新日志-1"><a href="#2020-4-9-更新日志-1" class="headerlink" title="2020.4.9 更新日志"></a>2020.4.9 更新日志</h2><ol>
+<h2 id="2020-4-9-更新日志"><a href="#2020-4-9-更新日志" class="headerlink" title="2020.4.9 更新日志"></a>2020.4.9 更新日志</h2><ol>
 <li>新增博文《Typora+Picgo+Github 轻松使用 Markdown》</li>
 </ol>
 <h2 id="2020-3-30-更新日志"><a href="#2020-3-30-更新日志" class="headerlink" title="2020.3.30 更新日志"></a>2020.3.30 更新日志</h2><ol>

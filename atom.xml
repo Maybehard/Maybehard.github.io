@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-26T09:08:37.451Z</updated>
+  <updated>2020-06-29T16:55:20.157Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自动生成字幕</title>
+    <link href="http://yoursite.com/2020/06/30/%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E5%AD%97%E5%B9%95/"/>
+    <id>http://yoursite.com/2020/06/30/%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E5%AD%97%E5%B9%95/</id>
+    <published>2020-06-29T16:45:52.000Z</published>
+    <updated>2020-06-29T16:55:20.157Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;最近刚刚好碰上有小教的作业要写，懒得去学校里实地采集资料了。网上找了课程，发现如果要自己手动进行文字的转换太过于麻烦了。于是想到了网上看看有没能自动获取视频里的字幕然后导出的工具。于是就发现了这个网站。网易出品。还是值得信赖的！（其实好早之前应该看到过，所以这次就是直接试着开始上手了）于是就开始尝试了一下这个网站。使用起来体验还是可以的。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="网址" scheme="http://yoursite.com/categories/%E7%BD%91%E5%9D%80/"/>
+    
+    
+      <category term="网址" scheme="http://yoursite.com/tags/%E7%BD%91%E5%9D%80/"/>
+    
+  </entry>
   
   <entry>
     <title>浏览器必备插件</title>
@@ -318,15 +339,22 @@
     <link href="http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
     <id>http://yoursite.com/2018/10/13/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</id>
     <published>2018-10-13T03:00:55.000Z</published>
-    <updated>2020-06-16T13:57:29.889Z</updated>
+    <updated>2020-06-29T16:46:50.157Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;2020-4-9-更新日志&quot;&gt;&lt;a href=&quot;#2020-4-9-更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.4.9 更新日志&quot;&gt;&lt;/a&gt;2020.4.9 更新日志&lt;/h2&gt;&lt;ol&gt;
+      &lt;h2 id=&quot;2020-6-30-更新日志&quot;&gt;&lt;a href=&quot;#2020-6-30-更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.6.30 更新日志&quot;&gt;&lt;/a&gt;2020.6.30 更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;更新博文《自动生成字幕》&lt;/li&gt;
+&lt;li&gt;增加分类：网站&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;2020-6-26-更新日志&quot;&gt;&lt;a href=&quot;#2020-6-26-更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.6.26 更新日志&quot;&gt;&lt;/a&gt;2020.6.26 更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;更新博文《浏览器必备插件》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;2020-6-13-更新日志&quot;&gt;&lt;a href=&quot;#2020-6-13-更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.6.13 更新日志&quot;&gt;&lt;/a&gt;2020.6.13 更新日志&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;蹭考试热点发布博文《油猴插件的安装与使用》&lt;/li&gt;
 &lt;li&gt;博客之前用 github 做图床的图片全访问不了了，考完试有空再修复&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;2020-4-9-更新日志-1&quot;&gt;&lt;a href=&quot;#2020-4-9-更新日志-1&quot; class=&quot;headerlink&quot; title=&quot;2020.4.9 更新日志&quot;&gt;&lt;/a&gt;2020.4.9 更新日志&lt;/h2&gt;&lt;ol&gt;
+&lt;h2 id=&quot;2020-4-9-更新日志&quot;&gt;&lt;a href=&quot;#2020-4-9-更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.4.9 更新日志&quot;&gt;&lt;/a&gt;2020.4.9 更新日志&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;新增博文《Typora+Picgo+Github 轻松使用 Markdown》&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&quot;2020-3-30-更新日志&quot;&gt;&lt;a href=&quot;#2020-3-30-更新日志&quot; class=&quot;headerlink&quot; title=&quot;2020.3.30 更新日志&quot;&gt;&lt;/a&gt;2020.3.30 更新日志&lt;/h2&gt;&lt;ol&gt;
